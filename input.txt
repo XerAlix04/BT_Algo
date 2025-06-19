@@ -1,0 +1,16 @@
+5
+Nguyen Van Lam
+6.3
+D
+Nguyen Hoan
+5.8
+A
+Hoang Anh Tung
+8.7
+B
+Tran Duy Anh
+7.9
+D
+Phung Thi Phuong
+8.0
+A

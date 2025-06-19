@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<meta charset=utf-8/>
+<title>Lab 1</title>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+
+<body class="body">
+
+<div class="header">
+<h1 class="title">About Victoria Kirst</h1>
+
+<p class="txt">My name is Victoria and I am 
+<span class="yll">jolly, clumsy,</span>
+and 
+<span class="yll">four-eyed</span>
+</p>
+</div>
+
+<hr>
+
+<div class="body1">
+<h3 class="title">My Classes This Quarter</h3>
+
+<ul class="txt">
+<li>CSE 451 - Qperating Systems</li>
+<li>CSE 471 - Computer Design and Organization</li>
+<li>PHYS 121 - Physics: Mechanics</li>
+<li>CSE 498 - Research w/ Prof. Luis Ceze</li>
+</ul>
+
+<h3 class="title">My Favorite Movies</h3>
+
+<p class="txt">(I actually don't watch too many movies, so...here goes!)</p>
+
+<ol class="txt">
+<li>
+The last 30 minutes of Forest Gump
+<a class="link" href="https://www.imdb.com/title/tt0109830">IMDB</a>
+</li>
+<li>
+Star Trek Episode V with Zazu
+<a class="link" href="https://www.imdb.com/title/tt0109830">IMDB</a>
+</li>
+<li>
+Fight Club (not really, but I've seen like 3 movies total so this is my 3rd fave by technicality)
+<a class="link" href="https://www.imdb.com/title/tt0109830">IMDB</a>
+</li>
+</ol>
+
+<h3 class="title">My Moods</h3>
+
+<div class="txt">
+Happy:
+<img src="./happyface.jpg" alt="Happy" height="150px" width="150px">
+Sad:
+<img src="./sadface.jpg" alt="Sad" height="150px" width="150px">
+
+<h3 class="title">Fun Facts About My Neighbors</h3>
+
+<ul class="txt">
+<li>Sue Smith: <i>Effervescent</i> is a word that describes her.
+<li>Bill Thompson: Loves playing <i>Yu-Gi-Oh</i>
+</ul>
+
+</body>
+
+</html>
